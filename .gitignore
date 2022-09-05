@@ -34,3 +34,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#PWA
+public/workbox-6a1bf588.js
+public/sw.js
+
+#lighthouse
+localhost_2022-09-05_19-33-45.report.html
