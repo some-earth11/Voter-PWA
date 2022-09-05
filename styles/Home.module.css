@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
+#container{
+  display: flex;
+  justify-content: center;
+  background-color: #000100;
+}
+
 #hello{
+  /* justify-content: center;
+  align-items: center; */
   font-family: 'Montserrat',sans-serif;
+  color: white;
 }
